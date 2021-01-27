@@ -13,7 +13,7 @@
 
   <!--  The current version -->
   <version>1.0-SNAPSHOT</version>
-<!-This is a little komment-->
+<!-This is a little moore of a comment-->
   <!--  How are we packaging - jar, war, ear -->
   <packaging>jar</packaging>
 
